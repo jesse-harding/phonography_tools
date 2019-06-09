@@ -1,0 +1,6 @@
+filter cutoff: 3478.4792>>3277.0198
+groove deflection max: 0.035in
+approx. bit depth: 4.392318
+kerf: 0.008in
+diameter: 12.0
+leader/runout: 1s
